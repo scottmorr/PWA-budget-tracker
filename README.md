@@ -1,5 +1,9 @@
 # PWA-budget-tracker
-https://young-bayou-65371.herokuapp.com/
+Link to deployed App https://young-bayou-65371.herokuapp.com/
+
+
+
+
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling
@@ -28,3 +32,5 @@ In the end, PWA-budget-tracker is a functional PWA app that really helps the use
 
 ![PWA#1](https://user-images.githubusercontent.com/61360215/86995268-c3db2c80-c165-11ea-92f1-26b0104c9875.jpg)
 
+Below, is the deployed link
+https://young-bayou-65371.herokuapp.com/
